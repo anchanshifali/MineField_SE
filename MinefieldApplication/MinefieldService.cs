@@ -35,7 +35,7 @@ namespace Minefield
         }
 
         /// <summary>
-        /// Simulates a game of navigating through a minefield. The player starts at the bottom-right corner of the board,
+        /// Simulates a game of navigating through a minefield. The player starts at the bottom-left corner of the board,
         /// and the goal is to reach the top-right corner without stepping on a mine. The player is given a number of lives, 
         /// and each time a mine is triggered, a life is lost. The game continues until either the player wins by reaching the target 
         /// or loses all lives. The method tracks the number of moves and remaining lives throughout the game.
