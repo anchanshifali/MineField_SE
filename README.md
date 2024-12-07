@@ -1,1 +1,2 @@
 # MineField
+Simulates a game of navigating through a minefield based on the given direction (Up, Down, Left, Right). The player starts at the bottom-left corner of the board, and the goal is to reach the top-right corner without stepping on a mine. The player is given a number of lives, and each time a mine is triggered, a life is lost. The game continues until either the player wins by reaching the target or loses all lives.
